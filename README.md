@@ -1,4 +1,4 @@
-# CPEE Instantiation
+# CPEE MQTT OP
 
 To install the instatiation service go to the commandline
 
